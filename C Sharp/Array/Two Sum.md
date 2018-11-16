@@ -52,7 +52,7 @@ public class Solution {
 
 Submission Detail:
 
-![two sum.png](https://note.youdao.com/yws/res/907/WEBRESOURCEebab2eb35609d2b5d7eeacf70ab48f34)
+![image](http://github.com/yucaoye/leetcode/images/Two sum.PNG)
 
 
 Approach：
@@ -67,7 +67,7 @@ Space complexity : O(1)
 
 Better Solution：
 
-![tow sum 1.png](https://note.youdao.com/yws/res/954/WEBRESOURCE4f9751ccfe833482d98592c7982ffbc4)
+![image](http://github.com/yucaoye/leetcode/images/tow sum 1.PNG)
 
 这是其他用户写得方案，他这里用到了字典，先是将数组的值和下标复制到了字典中，在循环数组，在字典中找到一个值 y = target - x(当前元素) ，如果 y 所在下标不是 x 所在下标，则成功找到，返回 x，y的下标。
 
