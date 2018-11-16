@@ -66,7 +66,7 @@ Time complexity : O(n^2)，每个元素都要再循环数组后面的元素，�
 
 Space complexity : O(1)
 
-Better Solution：
+Other Solution：
 
 ![image](https://github.com/yucaoye/leetcode/blob/master/images/towsum1.PNG)
 
